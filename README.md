@@ -1,1 +1,1 @@
-# shooter
+# minijuegoshooter
